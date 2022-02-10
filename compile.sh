@@ -1,0 +1,1 @@
+gcc -o smallsh -Wall -Werror -g3 -std=c11 -O0 smallsh.c
